@@ -1,0 +1,28 @@
+html {
+    height: 100%;
+    width: 100%;
+ody {
+    background-color: green;
+    font-family: 'Courier New';
+    color: white;
+    text-align: center;
+    margin: 0px;
+}
+
+body {
+    display: block;
+    margin: 8px;
+}
+
+  element.style {
+  }
+  html {
+      height: 100%;
+      width: 100%;
+  }
+  :root {
+      view-transition-name: root;
+  }
+  html {
+      display: block;
+  }
